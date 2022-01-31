@@ -117,7 +117,8 @@ export const App = () => {
         >
           here
         </a>
-          .{" "}Assumes ISO_UK layout, output on other layouts can be wrong. Recorded macro does not yet include any delays, add them by hand if needed.
+        . Assumes ISO_UK layout, output on other layouts can be wrong. Recorded
+        macro does not yet include any delays, add them by hand if needed.
       </p>
       <div className="button-container">
         {!isRecording ? (
